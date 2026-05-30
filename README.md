@@ -1,1 +1,11 @@
-# DH_IAM
+<h1>Hi, I'm Derrick, a Cybersecurity, IAM Azure Associate</h1>
+
+- <b>Microsoft Azure Entra ID</b>
+- [Creating User's in Entra ID]()
+- [Cloud Provisioning - P2 Licensing]()
+- [Role Assignments]()
+- [Group Assignment]()
+- [Identity Lifecycle]()
+- [Audit Logs]()
+- [Sign-In Logs]()
+- [Authentication]()
